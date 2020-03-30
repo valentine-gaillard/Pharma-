@@ -1,0 +1,23 @@
+.btn-green {
+	background-color: #207561;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Spartan', sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+}
+
+.btn-green:hover{
+	background-color: #185647;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Spartan', sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+}

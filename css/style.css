@@ -1,0 +1,59 @@
+/*import google font*/
+
+@import url("https://fonts.googleapis.com/css?family=Darker+Grotesque:400,700|Inria+Serif:300i,400,700|Spartan:100,400,600|Tomorrow:100,300,400&display=swap");
+
+
+
+
+/*import components file*/
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+
+
+/*style for fonts and colors*/
+
+body {
+	font-family: 'Inria Serif', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1 { 
+	font-family: 'Spartan', sans-serif;
+	font-weight: bold;
+	font-size: 60px;
+	color: #185647;
+}
+
+
+h2 {
+	font-family: 'Spartan', sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+#line {
+	font-family: 'Inria Serif', serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
